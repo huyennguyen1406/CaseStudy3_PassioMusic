@@ -1,2 +1,2 @@
-public class trihoang2 {
+public class trihoang2{
 }
